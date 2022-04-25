@@ -2,6 +2,7 @@
 layout: default
 title: Readme
 nav_order: 1
+permalink: /
 ---
 
 ## Welcome to GitHub Pages
