@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Test test
+layout: default
+title: Test Test
+nav_order: 4
 permalink: /testtest/
 ---
 
